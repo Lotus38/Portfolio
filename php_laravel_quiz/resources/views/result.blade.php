@@ -1,0 +1,1 @@
+<p>Score: {{ session('score') }}</p>
